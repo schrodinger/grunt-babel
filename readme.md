@@ -1,3 +1,5 @@
+# NOTE: This is a temporary repository to test LiveDesign upgrade to babel@7 before its official release.
+
 # grunt-babel [![Build Status](https://travis-ci.org/babel/grunt-babel.svg?branch=master)](https://travis-ci.org/babel/grunt-babel)
 
 > Use next generation JavaScript, today, with [Babel](https://babeljs.io)
